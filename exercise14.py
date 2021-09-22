@@ -1,4 +1,4 @@
-### Exercise 13 - Curso em Video
+### Exercise 14 - Curso em Video
 ## Develop an algorithm to read a employee salary and show a 15% salary increase
 
 currentsalary = float(input('What is your current salary? '))

@@ -7,4 +7,4 @@ grade2 = float(input('Grade 2: '))
 sumgrades = grade1+grade2
 avg = sumgrades/2
 
-print('Average grade from this student is: {0} '.format(avg))
+print('Average grade from this student is: {0:.2f} '.format(avg))
