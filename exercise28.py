@@ -1,5 +1,5 @@
 ### Exercise 28 - Curso em Video
-## Develop a program who reads a person's fullname and shows first and last names
+## Develop a program that reads a person's fullname and shows first and last names
 
 fullname = input('What is your fullname? ')
 split = fullname.split()

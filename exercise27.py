@@ -1,5 +1,5 @@
 ### Exercise 27 - Curso em Video
-## Develop a program who reads a phrase and shows:
+## Develop a program that reads a phrase and shows:
 #1) How many times letter A appears
 #2) First time apeard position
 #3) Last time apeard position

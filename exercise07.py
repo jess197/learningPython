@@ -1,5 +1,5 @@
 ### Exercise 07 - Curso em Video
-## Develop an algorithm who read a number and show double, triple and square.
+## Develop an algorithm that reads a number and show double, triple and square.
 
 number = int(input('Type a number: '))
 double = number*2

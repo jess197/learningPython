@@ -1,5 +1,5 @@
 ### Exercise 19 - Curso em Video
-## Develop a program who reads any angle and shows sin,cos and tan
+## Develop a program that reads any angle and shows sin,cos and tan
 
 import math as m
 ang = int(input('Type any angle: '))
