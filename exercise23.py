@@ -7,7 +7,7 @@
 
 import re
 
-fullname = input('What is your fullname? ')
+fullname = input('What is your fullname? ').strip()
 #1
 nameupper = fullname.upper()
 #2
