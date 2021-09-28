@@ -1,4 +1,4 @@
-### Exercise 29 - Curso em Video
+### Exercise 30 - Curso em Video
 ## Develop a program that reads the speed of a car and if it ultrapass 80km/h, show a message saying that the conductor got a traffic ticket.
 # PS: The traffic ticket will cost $7 each km exceeded.
 
