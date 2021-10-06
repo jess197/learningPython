@@ -6,8 +6,8 @@ vel = float(input('Speed of the car: '))
 limitvel = 80
 
 if(vel < limitvel):
-    print('Congrats!')
+    print('Have a good day. Drive with safety!')
 else:
     exceedvel = vel-limitvel
     tticket = exceedvel*7
-    print('You will receive a traffic ticket! You will need to pay ${0}'.format(tticket))
+    print('You will receive a traffic ticket! You will need to pay ${0:.2f}'.format(tticket))
