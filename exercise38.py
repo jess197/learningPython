@@ -17,15 +17,15 @@ option = int(input())
 if(option == 1):
     print('Converting...')
     sleep(5)
-    print('Your number is: {0} converted to Binary is: {1}'.format(number,bin(number)))
+    print('Your number is: {0} converted to Binary is: {1}'.format(number,bin(number)[2:]))
 elif(option == 2):
     print('Converting...')
     sleep(5)
-    print('Your number is: {0} converted to Binary is: {1}'.format(number,oct(number)))
+    print('Your number is: {0} converted to Binary is: {1}'.format(number,oct(number)[2:]))
 elif(option == 3):
     print('Converting...')
     sleep(5)
-    print('Your number is: {0} converted to Binary is: {1}'.format(number, hex(number)))
+    print('Your number is: {0} converted to Binary is: {1}'.format(number, hex(number)[2:]))
 else:
     print("This is isn't a valid option")
 
