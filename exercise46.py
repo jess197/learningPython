@@ -23,8 +23,12 @@ else:
 computerOption = ['Rock','Scissor','Paper']
 
 computerChoice = choice(computerOption)
-print('JO KEN PO..')
-sleep(4)
+print('JO')
+sleep(1)
+print('KEN')
+sleep(1)
+print('PO')
+sleep(1)
 if(computerChoice == 'Paper'):
   if(playerChoice == 'Rock'):
       print('I WON, YOU LOST! I choose {} and you choose {}'.format(computerChoice, playerChoice))
