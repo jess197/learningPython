@@ -1,4 +1,4 @@
-### Exercise 43 - Curso em Video
+### Exercise 44 - Curso em Video
 ## Develop a program that reads the weight and height of a person and calculate his or her BMI.
 # Underweight = < 18.5
 # Normal weight = 18.5 to 24.9

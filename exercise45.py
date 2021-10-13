@@ -1,3 +1,4 @@
+### Exercise 45 - Curso em Video
 ## Develop a program that calculate the total price to be paid in a product, considering diferent types of payment conditions
 # With Cash : 10% discount
 # Credit Card : 5% discount
