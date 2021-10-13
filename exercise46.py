@@ -1,3 +1,4 @@
+### Exercise 46 - Curso em Video
 ## Develop a program to play jokenpo with you
 
 from random import choice
